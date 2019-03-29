@@ -1,25 +1,25 @@
-# Lesson 1: Some Housekeeping and Getting Started with Python  
+# Lesson 1: Getting Started with Python  
 
-**To start this lesson, students should**:
+**To start this lesson, you should**:
 
 * Be computer proficient - be a decent typer, know how to navigate the computer, have experience regularly using a computer.
 * Have experience coding in other languages.
 
-**By completing this lesson, students will**:
+**By completing this lesson, you will**:
 
 * Get Python set up on your computer and be able to run Python files.
-* Become familiar with the terminal (and feel like a complete hacker when using it - trust me, you'll see).
-* Start to be familiar with Python and how it's different from other coding languages they may have used.
+* Become familiar with the terminal.
+* See where Python is different from other coding languages.
 
 ## Getting set up with Python
 
-First things first! To start this class, we're going to need to set up Python on your computer. We will be using Python 2. This process will be different for Mac users and Windows users, so if you're using a Mac, go [here](macsetup.md), and if you're using a Windows computer, go [here](https://docs.google.com/document/d/e/2PACX-1vSMJNOaNphw0dD9h-pB3MlJLnpZOVP-ZtI4Hfe5J33QHwDrEWjKYEsX2Rv8UB0n6-8UfBrzehYUIjSe/pub), and follow the instructions. When you're done, come back here and we'll continue.
+Set up Python on your computer. We will be using Python 2. This process will be different for Mac users and Windows users, so if you're using a Mac, go [here](macsetup.md), and if you're using a Windows computer, go [here](https://docs.google.com/document/d/e/2PACX-1vSMJNOaNphw0dD9h-pB3MlJLnpZOVP-ZtI4Hfe5J33QHwDrEWjKYEsX2Rv8UB0n6-8UfBrzehYUIjSe/pub), and follow the instructions. When you're done, come back here and we'll continue.
 
 ## Messing around with Python
 
 We've already been introduced to our intimidating, but useful friend, the terminal (or command prompt for windows users). We've just set up Python, so now let's familiarize ourselves with it.
 
-Python is a relatively new language, and its usage is growing rapidly. People use it to build websites (like Instagram!), games, and analyze data to understand how people use these websites and make them better. But rather than talk about it, let's just jump right in.
+Python is a relatively new language, and its usage is growing rapidly. People use it to build websites (like Instagram!), games, and analyze data to understand how people use these websites and make them better.  Let's jump right in:
 
 Open up your terminal or command prompt again, and just type in:
 
