@@ -13,7 +13,7 @@
 * Get practice using control flow to write programs that follow a logical flow in Python.
 * Be able to construct basic programs in Python and run them.
 
-Before we start this lesson, let me make sure you know that as I write this lesson, I'm assuming that you have already done a fair share of basic programming. This means that I may go through a couple of concepts fairly quickly without slowing down to explain them. If any of this is confusing, feel free to ask a mentor.
+Before we start this lesson, I'm assuming that you have already done a fair share of basic programming. Therefore, I may go through a couple of concepts fairly quickly without slowing down to explain them. If any of this is confusing, feel free to ask a mentor.
 
 ## Some Python Basics
 
@@ -27,9 +27,9 @@ Before we start doing any coding ourselves, look at the following block of Pytho
         else:
             print(a)
 
-You might have seen this code already if you were reading the course requirements of this class, but let's take a closer look at it. Now, even if you haven't coded in Python before, you might still be able to tell roughly what the code is doing and what it will print out. Feel free to paste all this code into the helloworld.py file from the last lesson and run the file again in the terminal (using `python helloworld.py`) to see for sure what it prints.
+You might have seen this code already if you were reading the course requirements of this class, but let's take a closer look at it. Even if you haven't coded in Python before, you might still be able to tell roughly what the code is doing and what it will print out. Feel free to paste all this code into the helloworld.py file from the last lesson and run the file again in the terminal (using `python helloworld.py`) to see for sure what it prints.
 
-Now, even though you might have been able to tell what was going to print out, you might have also noticed that there are some differences between how this code looks and how code looks in other languages you may have used in the past.
+Even though you might have been able to tell what was going to print out, you might have also noticed that there are some differences between how this code looks and how code looks in other languages you may have used in the past.
 
 Let's look at a couple of these differences.
 
